@@ -1,0 +1,10 @@
+D:\POC\RabbitMQ\ProducerConsumer\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+D:\POC\RabbitMQ\ProducerConsumer\Producer\bin\Debug\Producer.exe.config
+D:\POC\RabbitMQ\ProducerConsumer\Producer\bin\Debug\Producer.exe
+D:\POC\RabbitMQ\ProducerConsumer\Producer\bin\Debug\Producer.pdb
+D:\POC\RabbitMQ\ProducerConsumer\Producer\bin\Debug\RabbitMQ.Client.dll
+D:\POC\RabbitMQ\ProducerConsumer\Producer\bin\Debug\RabbitMQ.Client.xml
+D:\POC\RabbitMQ\ProducerConsumer\Producer\obj\Debug\Producer.csproj.CopyComplete
+D:\POC\RabbitMQ\ProducerConsumer\Producer\obj\Debug\Producer.exe
+D:\POC\RabbitMQ\ProducerConsumer\Producer\obj\Debug\Producer.pdb
+D:\POC\RabbitMQ\ProducerConsumer\Producer\obj\Debug\Producer.csprojAssemblyReference.cache

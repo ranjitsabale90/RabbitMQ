@@ -1,0 +1,12 @@
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\Subscriber.exe.config
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\Subscriber.exe
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\Subscriber.pdb
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\RabbitMQ.Client.dll
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\POC\RabbitMQ\Topics\Subscriber\bin\Debug\RabbitMQ.Client.xml
+D:\POC\RabbitMQ\Topics\Subscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+D:\POC\RabbitMQ\Topics\Subscriber\obj\Debug\Subscriber.csproj.CopyComplete
+D:\POC\RabbitMQ\Topics\Subscriber\obj\Debug\Subscriber.exe
+D:\POC\RabbitMQ\Topics\Subscriber\obj\Debug\Subscriber.pdb
+D:\POC\RabbitMQ\Topics\Subscriber\obj\Debug\Subscriber.csprojAssemblyReference.cache

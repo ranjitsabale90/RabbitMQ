@@ -1,0 +1,11 @@
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\RpcServer.exe.config
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\RpcServer.exe
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\RpcServer.pdb
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\RabbitMQ.Client.dll
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\POC\RabbitMQ\Rpc\RpcServer\bin\Debug\RabbitMQ.Client.xml
+D:\POC\RabbitMQ\Rpc\RpcServer\obj\Debug\RpcServer.csproj.CoreCompileInputs.cache
+D:\POC\RabbitMQ\Rpc\RpcServer\obj\Debug\RpcServer.csproj.CopyComplete
+D:\POC\RabbitMQ\Rpc\RpcServer\obj\Debug\RpcServer.exe
+D:\POC\RabbitMQ\Rpc\RpcServer\obj\Debug\RpcServer.pdb
